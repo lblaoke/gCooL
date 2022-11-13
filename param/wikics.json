@@ -1,0 +1,18 @@
+{
+    "learning_rate": 0.01,
+    "num_hidden": 384,
+    "hidden_layer": 1368,
+    "num_proj_hidden": 384,
+    "activation": "prelu",
+    "drop_edge_rate_1": 0.2,
+    "drop_edge_rate_2": 0.2,
+    "drop_feature_rate_1": 0.1,
+    "drop_feature_rate_2": 0.1,
+    "tau": 0.4,
+    "num_community": 10,
+    "lamda": 1.0,
+    "gamma": 8e-5,
+    "stride": 500,
+    "drop_scheme": "pr",
+    "num_epochs": 1000
+}

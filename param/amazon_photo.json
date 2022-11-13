@@ -1,0 +1,18 @@
+{
+    "learning_rate": 0.1,
+    "num_hidden": 128,
+    "hidden_layer": 256,
+    "num_proj_hidden": 128,
+    "activation": "relu",
+    "drop_edge_rate_1": 0.4,
+    "drop_edge_rate_2": 0.4,
+    "drop_feature_rate_1": 0.1,
+    "drop_feature_rate_2": 0.1,
+    "tau": 0.3,
+    "num_community": 8,
+    "lamda": 0.1,
+    "gamma": 8e-5,
+    "stride": 500,
+    "drop_scheme": "pr",
+    "num_epochs": 2900
+}
