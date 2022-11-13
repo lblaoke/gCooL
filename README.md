@@ -1,5 +1,6 @@
 # Environment requirments
 ```
+python >= 3.8
 torch == 1.8.1
 torch-geometric == 1.7.2
 ```
