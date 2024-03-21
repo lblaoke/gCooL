@@ -10,6 +10,9 @@ torch-geometric == 1.7.2
 python main.py --dataset Amazon-Computers --param local:amazon_computers.json
 ```
 
+# Dataset
+The multiplex network datasets can downloaded at https://www.dropbox.com/s/48oe7shjq0ih151/data.tar.gz?dl=0
+
 # Citation
 ```
 @inproceedings{li2022graph,
